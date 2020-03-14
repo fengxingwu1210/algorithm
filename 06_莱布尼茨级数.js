@@ -13,7 +13,7 @@ for(var i=1;i<=1;i++){
         jiji*=j
     console.log(jiji);
 }
-sum+=ji/jiji;
+sum+=(ji/jiji);
 console.log(sum);
 
 console.log('圆周率是'+((1+sum)*2));
